@@ -13,13 +13,17 @@ Version 20081029.16083
 
 =cut
 
-our $VERSION = '20081029.16083';
+our $VERSION = '20081112.31792';
 
 =head1 SYNOPSIS
 
     use Acme::Stardate;
 
     my $t = stardate();
+
+or from a command line
+
+    stardate
 
 =head1 ABSTRACT
 

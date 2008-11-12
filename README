@@ -4,8 +4,8 @@ A silly module for generating a "stardate" string based
 on the local clock. Stardates are simple numerically and lexically
 comparable strings that might be useful as version numbers.
 http://en.wikipedia.org/wiki/Stardate documents a bit about the usage of
-the term on Star Trek.  It is just a sortable gmt date plus a decimal
-fraction of a day precise enough to catch one second changes
+the term on Star Trek.  This module just generates sortable gmt date plus
+a decimal fraction of a day precise enough to catch one second changes
 
 INSTALLATION
 
